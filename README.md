@@ -43,7 +43,7 @@ to public transportation and urban mobility problems.
 ### Gachon University
 
 **M.S. Student, Department of Smart City**  
-Present
+Mar. 2026 - Present
 
 <br>
 
