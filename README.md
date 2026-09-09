@@ -7,6 +7,8 @@
 
 <div align="center">
 
+# JunKyu Park
+
 ### Transportation · AI · Mobility Data Science
 
 Transportation data analysis, mobility prediction,  
@@ -16,15 +18,68 @@ and AI-based data-driven research.
 
 <br>
 
+---
+
 ## About Me
 
-- Master's Student in Transportation
+I am a master's student in the Department of Smart City at Gachon University.
+
+My research interests focus on transportation and mobility data analysis,
+with an emphasis on applying machine learning and data-driven methods
+to public transportation and urban mobility problems.
+
 - Transportation & Mobility Data Analysis
 - Machine Learning & AI
-- Big Data Analytics
 - Public Transportation Demand Forecasting
+- Big Data Analytics
+- Intelligent Transportation Systems
 
 <br>
+
+---
+
+## Education
+
+### Gachon University
+
+**M.S. Student, Department of Smart City**  
+Present
+
+<br>
+
+### Hannam University
+
+**B.S., Department of Big Data Application**  
+Mar. 2020 – Aug. 2025  
+**GPA: 4.35 / 4.5**
+
+<br>
+
+---
+
+## Work Experience
+
+### Hannam University
+
+**Coordinator**  
+Jul. 2025 – Feb. 2026
+
+<br>
+
+### Siandis Co., Ltd.
+
+**Data Analysis Manager**  
+Jan. 2024 – Jun. 2025
+
+<br>
+
+### Undergraduate Research Student
+
+Sep. 2023 – Jul. 2025
+
+<br>
+
+---
 
 ## Research Interests
 
@@ -34,12 +89,16 @@ and AI-based data-driven research.
 - Machine Learning for Transportation
 - Mobility Pattern Analysis
 - Intelligent Transportation Systems
+- Autonomous Vehicles
+- Urban Mobility
 
 <br>
 
+---
+
 ## Tech Stack
 
-### Data Analysis & AI
+### Data Analysis & Machine Learning
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -50,13 +109,28 @@ and AI-based data-driven research.
   <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=python&logoColor=white" />
 </div>
 
-### Data & Programming
+<br>
+
+### Computer Vision & Data Processing
 
 <div>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white" />
+</div>
+
+<br>
+
+### Programming Languages
+
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 </div>
+
+<br>
 
 ### Tools
 
@@ -69,76 +143,104 @@ and AI-based data-driven research.
 
 <br>
 
+---
+
 ## Award-Winning Projects
 
 ### Daejeon Public Transportation Demand-Based Dispatch Service
 
-**Gold Prize — 1st Big Data & AI Utilization Competition for Regional Problem Solving**
+**Gold Prize — 1st Big Data & AI Utilization Competition for Regional Problem Solving**  
+Nov. 2023 – Dec. 2023
 
-AI-based public transportation dispatching model designed to improve
+AI-based public transportation dispatching project designed to improve
 bus operation efficiency through passenger demand prediction.
 
-- Developed an intelligent bus dispatching model based on passenger demand prediction
-- Integrated bus, subway, and population grid data
-- Analyzed regional mobility and public transportation demand
+- Designed an intelligent bus dispatching model based on passenger demand prediction
+- Integrated regional mobility data including bus, subway, and population grid data
+- Analyzed regional transportation demand and mobility patterns
 - Proposed AI-driven dispatch policies for the Daejeon Transportation Corporation
 
-**Keywords**  
-`Transportation` `Demand Prediction` `Mobility Data` `Machine Learning` `Python`
+**Keywords**
+
+`Transportation` `Demand Prediction` `Mobility Data` `Machine Learning` `Public Transit`
 
 <br>
 
+---
+
 ### AI-Based Quality Data Analysis for Shared E-Scooter Safety
 
-**Silver Prize — DSC Regional Innovation Platform Project**
+**Silver Prize — DSC Regional Innovation Platform Project**  
+Nov. 2023 – Jan. 2024
 
-AI-based safety analysis project for identifying risk factors associated
-with shared e-scooter usage.
+AI-based safety analysis project focused on identifying risk factors
+associated with shared e-scooter usage.
 
-- Conducted text analysis using DTM and Word Cloud
+- Conducted unstructured text analysis using DTM and Word Cloud
 - Applied YOLOv8 and OpenCV for image-based safety analysis
 - Integrated academic and social media datasets
-- Identified safety issues related to helmet usage, speeding, and parking violations
-- Proposed an AI-based quality improvement model for shared mobility
+- Identified public safety concerns and behavioral risk factors
+- Proposed an AI-based quality improvement model for helmet detection, speed regulation, and parking violations
 
-**Keywords**  
+**Keywords**
+
 `Shared Mobility` `YOLOv8` `OpenCV` `Text Mining` `Computer Vision`
 
 <br>
 
-### Daejeon Transportation Corporation AI Competition
-
-**Excellence Award — Daejeon Transportation Corporation AI Competition**
-
-Transportation data-driven analysis focused on applying AI techniques
-to public transportation operation and mobility problems.
-
-- Analyzed transportation and mobility data
-- Applied data-driven methodologies to public transportation problems
-- Developed AI-based transportation improvement strategies
-- Proposed practical applications for public transportation operations
-
-**Keywords**  
-`Transportation` `AI` `Public Transit` `Data Analysis` `Python`
-
-<br>
+---
 
 ### Daejeon Metro Line 1 Ridership Forecasting
 
-**Gold Prize — 2nd Big Data & AI Utilization Competition for Regional Problem Solving**
+**Gold Prize — 2nd Big Data & AI Utilization Competition for Regional Problem Solving**  
+Nov. 2024 – Dec. 2024
 
-Machine learning-based subway ridership forecasting project for
-demand-responsive public transportation operations.
+Machine learning-based subway ridership forecasting project designed
+to support demand-responsive public transportation operations.
 
 - Predicted hourly subway ridership using XGBoost and time-series modeling
-- Performed data preprocessing and feature engineering on metro transaction data
+- Conducted preprocessing and feature engineering on metro transaction datasets
 - Analyzed temporal patterns in public transportation demand
 - Proposed demand-responsive operation strategies for urban mobility optimization
 
-**Keywords**  
-`Transportation` `Ridership Forecasting` `XGBoost` `Time Series` `Python`
+**Keywords**
+
+`Transportation` `Ridership Forecasting` `XGBoost` `Time Series` `Public Transit`
 
 <br>
+
+---
+
+## Other Project Experience
+
+### Express Village Bus Route Design for Hwaseong City
+
+Oct. 2024 – Nov. 2024
+
+- Analyzed overlapping village bus routes using spatial and ridership data
+- Proposed optimized express routes for high-demand areas
+- Recommended Demand Responsive Transit implementation for low-demand zones
+
+**Keywords**
+
+`Bus Route Planning` `Spatial Analysis` `Ridership Data` `DRT`
+
+<br>
+
+---
+
+## Awards
+
+| Date | Award |
+|---|---|
+| Dec. 2023 | **Gold Prize** — 1st Big Data & AI Utilization Competition for Regional Problem Solving |
+| Jan. 2024 | **Silver Prize** — DSC Regional Innovation Platform Project |
+| Feb. 2024 | **Excellence Award** — Daejeon Transportation Corporation AI Competition |
+| Dec. 2024 | **Gold Prize** — 2nd Big Data & AI Utilization Competition for Regional Problem Solving |
+
+<br>
+
+---
 
 ## Research
 
@@ -147,30 +249,27 @@ demand-responsive public transportation operations.
 **An Analysis of the Impact of Autonomous Vehicle Penetration Rates on Traffic Flow and Safety**
 
 The 2025 Korean Society of ITS Spring Conference  
-Jeju, South Korea · April 2025
+Jeju, South Korea  
+April 2025
 
 <br>
 
-## Currently Studying
-
-- Machine Learning
-- Deep Learning
-- Transportation Data Analysis
-- Time Series Analysis
-- Mobility Data Analysis
-- Intelligent Transportation Systems
-
-<br>
+---
 
 ## Contact
 
-Email: **saba2702@naver.com**
+**Email**  
+junkyu@gachon.ac.kr
 
 <br>
+
+---
 
 <!-- Footer -->
 <div align="center">
   <img src="https://github.com/JunKyu2001/JunKyu2001/blob/main/Notion%20Template%20-%20footer.png?raw=true" />
 </div>
+
+<br>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
