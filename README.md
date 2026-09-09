@@ -1,64 +1,174 @@
-<!--타이틀 부분-->
+<!-- Title -->
 <div align="center">
   <img src="https://github.com/JunKyu2001/JunKyu2001/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202024-07-02%20155723.png?raw=true" />
 </div>
 
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
+<br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+
+### Transportation · AI · Mobility Data Science
+
+Transportation data analysis, mobility prediction,  
+and AI-based data-driven research.
+
 </div>
 
 <br>
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+## About Me
+
+- Master's Student in Transportation
+- Transportation & Mobility Data Analysis
+- Machine Learning & AI
+- Big Data Analytics
+- Public Transportation Demand Forecasting
+
+<br>
+
+## Research Interests
+
+- Transportation Big Data
+- Public Transportation Demand Forecasting
+- Traffic & Mobility Prediction
+- Machine Learning for Transportation
+- Mobility Pattern Analysis
+- Intelligent Transportation Systems
+
+<br>
+
+## Tech Stack
+
+### Data Analysis & AI
+
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=python&logoColor=white" />
+</div>
+
+### Data & Programming
+
+<div>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+</div>
+
+### Tools
+
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </div>
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
+## Award-Winning Projects
 
-<div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
+### Daejeon Public Transportation Demand-Based Dispatch Service
 
-<br>
+**Gold Prize — 1st Big Data & AI Utilization Competition for Regional Problem Solving**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-</div>
+AI-based public transportation dispatching model designed to improve
+bus operation efficiency through passenger demand prediction.
+
+- Developed an intelligent bus dispatching model based on passenger demand prediction
+- Integrated bus, subway, and population grid data
+- Analyzed regional mobility and public transportation demand
+- Proposed AI-driven dispatch policies for the Daejeon Transportation Corporation
+
+**Keywords**  
+`Transportation` `Demand Prediction` `Mobility Data` `Machine Learning` `Python`
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  </a>
-  <a href="mailto:saba2702@naver.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
+### AI-Based Quality Data Analysis for Shared E-Scooter Safety
 
+**Silver Prize — DSC Regional Innovation Platform Project**
+
+AI-based safety analysis project for identifying risk factors associated
+with shared e-scooter usage.
+
+- Conducted text analysis using DTM and Word Cloud
+- Applied YOLOv8 and OpenCV for image-based safety analysis
+- Integrated academic and social media datasets
+- Identified safety issues related to helmet usage, speeding, and parking violations
+- Proposed an AI-based quality improvement model for shared mobility
+
+**Keywords**  
+`Shared Mobility` `YOLOv8` `OpenCV` `Text Mining` `Computer Vision`
+
+<br>
+
+### Daejeon Transportation Corporation AI Competition
+
+**Excellence Award — Daejeon Transportation Corporation AI Competition**
+
+Transportation data-driven analysis focused on applying AI techniques
+to public transportation operation and mobility problems.
+
+- Analyzed transportation and mobility data
+- Applied data-driven methodologies to public transportation problems
+- Developed AI-based transportation improvement strategies
+- Proposed practical applications for public transportation operations
+
+**Keywords**  
+`Transportation` `AI` `Public Transit` `Data Analysis` `Python`
+
+<br>
+
+### Daejeon Metro Line 1 Ridership Forecasting
+
+**Gold Prize — 2nd Big Data & AI Utilization Competition for Regional Problem Solving**
+
+Machine learning-based subway ridership forecasting project for
+demand-responsive public transportation operations.
+
+- Predicted hourly subway ridership using XGBoost and time-series modeling
+- Performed data preprocessing and feature engineering on metro transaction data
+- Analyzed temporal patterns in public transportation demand
+- Proposed demand-responsive operation strategies for urban mobility optimization
+
+**Keywords**  
+`Transportation` `Ridership Forecasting` `XGBoost` `Time Series` `Python`
+
+<br>
+
+## Research
+
+### Poster Presentation
+
+**An Analysis of the Impact of Autonomous Vehicle Penetration Rates on Traffic Flow and Safety**
+
+The 2025 Korean Society of ITS Spring Conference  
+Jeju, South Korea · April 2025
+
+<br>
+
+## Currently Studying
+
+- Machine Learning
+- Deep Learning
+- Transportation Data Analysis
+- Time Series Analysis
+- Mobility Data Analysis
+- Intelligent Transportation Systems
+
+<br>
+
+## Contact
+
+Email: **saba2702@naver.com**
+
+<br>
+
+<!-- Footer -->
 <div align="center">
   <img src="https://github.com/JunKyu2001/JunKyu2001/blob/main/Notion%20Template%20-%20footer.png?raw=true" />
 </div>
