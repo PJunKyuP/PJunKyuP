@@ -50,16 +50,6 @@ Mar. 2020 – Aug. 2025
 
 ---
 
-## Projects
-
-| Project                                                         | Period    | Methods / Keywords                                 |
-| --------------------------------------------------------------- | --------- | -------------------------------------------------- |
-| **Daejeon Public Transportation Demand-Based Dispatch Service** | 2023      | Demand Prediction, Mobility Data, Machine Learning |
-| **AI-Based Shared E-Scooter Safety Analysis**                   | 2023–2024 | YOLOv8, OpenCV, Text Mining                        |
-| **Daejeon Metro Line 1 Ridership Forecasting**                  | 2024      | XGBoost, Time Series, Ridership Forecasting        |
-| **Express Village Bus Route Design for Hwaseong City**          | 2024      | Spatial Analysis, Bus Route Planning, DRT          |
-
----
 
 ## Awards
 
