@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# JunKyu Park
+# [JunKyu Park](https://junkyu.forme.my)
 
 ### Transportation · AI · Mobility Data Science
 
@@ -49,7 +49,6 @@ Mar. 2020 – Aug. 2025
 **GPA: 4.35 / 4.5**
 
 ---
-
 
 ## Awards
 
@@ -102,6 +101,7 @@ Jeju, South Korea · April 2025
 
 ## Contact
 
+**Website:** [junkyu.forme.my](https://junkyu.forme.my)
 **Email:** [junkyu@gachon.ac.kr](mailto:junkyu@gachon.ac.kr)
 
 <br>
