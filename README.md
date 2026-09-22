@@ -57,29 +57,7 @@ Mar. 2020 – Aug. 2025
 
 ---
 
-## Work Experience
 
-### Hannam University
-
-**Coordinator**  
-Jul. 2025 – Feb. 2026
-
-<br>
-
-### Siandis Co., Ltd.
-
-**Data Analysis Manager**  
-Jan. 2024 – Jun. 2025
-
-<br>
-
-### Undergraduate Research Student
-
-Sep. 2023 – Jul. 2025
-
-<br>
-
----
 
 ## Research Interests
 
